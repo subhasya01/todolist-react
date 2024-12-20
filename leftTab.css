@@ -1,0 +1,14 @@
+
+
+.subBtn{
+    margin-top: 10px;
+}
+
+
+
+.tabs{
+    width: 150px;
+}
+.tabs:active{
+    background-color: azure;
+}
